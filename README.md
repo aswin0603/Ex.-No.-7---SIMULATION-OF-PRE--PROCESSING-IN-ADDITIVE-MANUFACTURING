@@ -1,4 +1,4 @@
-# Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
+# Ex. No. 06.01 - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
 ### DATE: 14.12.2024
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
@@ -45,7 +45,7 @@
 
 
 ### Name: ASWIN B
-### Register Number: 24900642
+### Register Number: 212224110007
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
